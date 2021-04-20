@@ -2,5 +2,5 @@ webjo
 -html
 -css
 -javascript
--php
 -laravel
+-python
