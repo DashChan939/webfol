@@ -3,8 +3,9 @@ rencana belajra
 -jason
 -jquery
 -bootstrap
- ^position
- ^toggler
+ ^css
+ ^JS
+-xml
 -fundamental
 -pisikolog
- ^insting
+-reaction
