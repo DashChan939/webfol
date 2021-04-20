@@ -3,6 +3,9 @@ rencana belajra
 -jason
 -jquery
 -bootstrap
+ ^css
+ ^JS
 -xml
 -fundamental
 -pisikolog
+-reaction
