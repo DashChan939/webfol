@@ -8,3 +8,4 @@ rencana belajra
 -xml
 -fundamental
 -pisikolog
+-reaction
