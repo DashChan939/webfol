@@ -1,0 +1,4 @@
+rencana belajra
+-laravel
+-jason
+-jquery
